@@ -1,4 +1,4 @@
-## 👋 Hello, I'm [Your Name]
+## 👋 Hello, I'm [SOOJAE KIM]
 
 I'm an Android Native developer passionate about building high-quality mobile apps using Kotlin and modern Android development tools.
 
