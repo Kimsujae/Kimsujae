@@ -2,8 +2,8 @@
 
 I'm an Android Native developer passionate about building high-quality mobile apps using Kotlin and modern Android development tools.
 
-- 🛠️ Tech Stack: Kotlin, Jetpack Compose, MVVM, Hilt, Coroutines, Room
-- 🌱 Currently learning: Clean Architecture, Modularization, Compose UI
+- 🛠️ Tech Stack: Kotlin, Jetpack Compose, MVVM, Hilt, Coroutines, Room ,Compose UI
+- 🌱 Currently learning: Clean Architecture, Modularization
 - 🔍 Interests: Mobile UX, open-source contribution, system design
 - 💬 Ask me about Android development
 - 📫 Reach me at: [123kswja@gmail.com]
